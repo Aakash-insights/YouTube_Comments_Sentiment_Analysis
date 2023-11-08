@@ -28,4 +28,4 @@ Make sure that the video ID you want to analyze matches the videoId parameter in
 
 The api_key variable is defined twice, once in the api_key variable and again in the params dictionary. You can use the one in the api_key variable to keep your code more organized.
 
-Ensure you have installed the necessary libraries, such as requests, nltk, and matplotlib, and have the VADER sentiment analyzer correctly set up with NLTK. You may need to download the NLTK VADER lexicon and perform any additional setup steps as required by NLTK
+Ensure you have installed the necessary libraries, such as requests, nltk, and matplotlib, and have the VADER sentiment analyzer correctly set up with NLTK. You may need to download the NLTK VADER lexicon and perform any additional setup steps as required by NLTK and done
