@@ -40,9 +40,7 @@ This project aims to analyze the sentiment of YouTube comments on a specific vid
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors:
-- [Aakash Patil](https://github.com/your_username)
-- [Contributor 1](https://github.com/contributor1_username)
-- [Contributor 2](https://github.com/contributor2_username)
+- [Aakash Patil](https://github.com/Aakash-insights)
 
 ## References:
 - [YouTube Data API Documentation](https://developers.google.com/youtube/v3)
