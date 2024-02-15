@@ -56,7 +56,7 @@ for comment in comments:
     else:
         num_neu += 1
 
-# Print the number of positive, negative and neutral comments
+# Print the number of positive, negative and neutral comments 
 print("Number of positive comments:", num_pos)
 print("Number of negative comments:", num_neg)
 print("Number of neutral comments:", num_neu)
